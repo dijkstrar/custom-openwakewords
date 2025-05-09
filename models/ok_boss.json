@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
+  "wake_word": "Ok boss",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "ok_boss.tflite",
