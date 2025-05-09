@@ -1,17 +1,15 @@
 {
   "type": "micro",
-  "wake_word": "Ok boss",
+  "wake_word": "ok boss",
   "author": "Kevin Ahrendt",
   "website": "https://www.kevinahrendt.com/",
   "model": "ok_boss.tflite",
-  "trained_languages": ["en"],
   "version": 2,
-  "tensor_arena_size": 22348,
   "micro": {
-    "probability_cutoff": 0.9,
+    "probability_cutoff": 0.97,
     "sliding_window_size": 5,
     "feature_step_size": 10,
-    "tensor_arena_size": 22348,
-    "minimum_esphome_version": "2024.7.0"
+    "tensor_arena_size": 22860,
+    "minimum_esphome_version": "2024.7"
   }
 }
