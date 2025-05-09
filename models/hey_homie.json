@@ -1,0 +1,11 @@
+{
+  "type": "micro",
+  "wake_word": "Hey Homie",
+  "author": "@dijkstrar",
+  "model": "./hey_homie.tflite",
+  "version": 1,
+  "micro": {
+    "probability_cutoff": 0.5,
+    "sliding_window_average_size": 10
+  }
+}
