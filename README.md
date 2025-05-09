@@ -13,4 +13,5 @@ micro_wake_word:
     - model: github://dijkstrar/custom-openwakewords/models/hey_aivd.json
     - model: github://dijkstrar/custom-openwakewords/models/ok_boss.json
     - model: github://dijkstrar/custom-openwakewords/models/r2d2.json
+    - model: github://dijkstrar/custom-openwakewords/models/Hey_CJ.json
 ```
