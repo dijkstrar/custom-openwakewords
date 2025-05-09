@@ -6,6 +6,7 @@
   "model": "ok_boss.tflite",
   "trained_languages": ["en"],
   "version": 2,
+  "tensor_arena_size": 22348,
   "micro": {
     "probability_cutoff": 0.9,
     "sliding_window_size": 5,
